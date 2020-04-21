@@ -1,4 +1,4 @@
-# covidapp
+# Sample Flutter Projects
 
 A new Flutter project.
 
